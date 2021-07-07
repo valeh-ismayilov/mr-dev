@@ -1,0 +1,100 @@
+* {
+    outline: none;
+}
+
+body {
+    margin: 1rem 2rem 2rem 2rem;
+}
+
+#rate_section {
+    float: right;
+    padding-top: 10px;
+}
+
+.button {
+    background: none;
+    color: black;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.hover {
+    transition: 300ms;
+}
+
+.hover:hover {
+    transition: 300ms;
+    opacity: 0.5;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+article {
+    display: none;
+}
+
+footer {
+    margin-top: 1.5rem;
+}
+
+nav {
+    margin-bottom: 1.5rem;
+}
+
+.footer-text {
+    text-align: center;
+}
+
+.box-button {
+    background: black;
+    color: white;
+    padding: 8px;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+#manager-wizard-id {
+    text-align: center;
+}
+
+#e-mail {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid lightgray;
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+label {
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: normal;
+    cursor: text;
+}
+
+.form-group {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.small-button {
+    width: 150px;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.manager {
+    display: none;
+}
+
+.check-button {
+    width: 400px;
+    margin: auto;
+}
